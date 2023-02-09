@@ -29,7 +29,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Solução](https://your-solution-url.com)
+- URL da solução: [Solução](https://github.com/BraynnerM/Cartao-NFT)
 -  URL do site no Github: [Github](https://your-live-site-url.com)
 
 ## Meu processo
